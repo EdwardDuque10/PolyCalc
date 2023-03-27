@@ -2,11 +2,7 @@
  * FILE: Term.cpp
  * AUTHOR: S. Blythe
  * DATE: 12/2022
- * PURPOSE: Inmplementation for the Term class, representing a single term in a 
- *            polynomial for CSC36000 Project #2.
- *
- *   NOTE: If you find yourself looking at this file, you are likely making
- *         things MILLIONS of times harder than they should be. 
+ * 
  */
 #include "Term.hpp"
 #include "Token.hpp"
