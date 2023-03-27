@@ -2,11 +2,8 @@
  * FILE: Token.hpp
  * AUTHOR: S. Blythe
  * DATE: 12/2022
- * PURPOSE: Interface for the Tokenclass, representing a single "logical block"
- *            in input for CSC36000 Project #2.
+ * 
  *
- *  NOTE: If you are trying to understand this file, you are making the project
- *           MILLIONS of times harder than it should be. 
  */
 #ifndef _TOKEN_HPP_
 #define _TOKEN_HPP_
