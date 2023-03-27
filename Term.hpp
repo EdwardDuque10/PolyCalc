@@ -2,8 +2,7 @@
  * FILE: Term.hpp
  * AUTHOR: S. Blythe
  * DATE: 12/2022
- * PURPOSE: Interface for the Term class, representing a single term in a 
- *            polynomial for CSC36000 Project #2.
+ *
  */
 #ifndef _TERM_HPP_
 #define _TERM_HPP_
